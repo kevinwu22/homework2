@@ -12,12 +12,20 @@ nav {
     flex-direction:row;
 }
 .article-container {
+    text-align:center;
     color:white;
     background-color:pink;
     float:left;
     width:750px;
 }
+.section {
+    text-align:center;
+    color:white;
+    background-color:brown;
+    height:100px;
+}
 .aside {
+    text-align:center;
     color:white;
     background-color:cyan;
     float:left;
