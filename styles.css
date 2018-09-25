@@ -1,9 +1,14 @@
+.content {
+    max-width:800px;
+    margin:auto;
+}
+
 header {
     font-size:14px;
     text-align:center;
     color: white;
     background-color:blue;
-    height:75px;
+    height:55px;
     width:800px;
 }
 nav {
@@ -22,7 +27,7 @@ nav {
     color:white;
     background-color:pink;
     float:left;
-    height:200px;
+    height:210px;
     width:528px;    
 }
 .section {
@@ -30,7 +35,7 @@ nav {
     text-align:center;
     color:white;
     background-color:brown;
-    height:60px;
+    height:65px;
     width:528px;
 }
 .aside {
@@ -40,7 +45,7 @@ nav {
     background-color:cyan;
     float:left;
     width:272px;
-    height:200px;
+    height:210px;
 }
 footer {
     font-size:14px;
