@@ -22,7 +22,7 @@ nav {
     color:white;
     background-color:pink;
     float:left;
-    height:50px;
+    height:200px;
     width:528px;    
 }
 .section {
@@ -30,7 +30,7 @@ nav {
     text-align:center;
     color:white;
     background-color:brown;
-    height:75px;
+    height:60px;
     width:528px;
 }
 .aside {
@@ -40,7 +40,7 @@ nav {
     background-color:cyan;
     float:left;
     width:272px;
-    height:250px;
+    height:200px;
 }
 footer {
     font-size:14px;
