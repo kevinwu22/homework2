@@ -1,6 +1,13 @@
-#header {
+header {
     text-align:center;
     color: white;
     background-color:blue;
     height:100px;
+}
+nav {
+    color: white;
+    text-decoration:underline;
+    background-color:green;
+    display:flex;
+    flex-direction:row;
 }
