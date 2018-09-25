@@ -2,7 +2,8 @@ header {
     text-align:center;
     color: white;
     background-color:blue;
-    height:100px;
+    height:50px;
+    width:800px;
 }
 nav {
     color: white;
@@ -10,24 +11,33 @@ nav {
     background-color:green;
     display:flex;
     flex-direction:row;
+    width:800px;
 }
 .article-container {
     text-align:center;
     color:white;
     background-color:pink;
     float:left;
-    width:750px;
+    width:528px;
 }
 .section {
     text-align:center;
     color:white;
     background-color:brown;
     height:100px;
+    width:528px;
 }
 .aside {
     text-align:center;
     color:white;
     background-color:cyan;
     float:left;
-    width:250px;
+    width:272px;
+    height:280px;
+}
+footer {
+    text-align:center;
+    color:white;
+    background-color:green;
+    width:800px;
 }
