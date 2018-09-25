@@ -1,41 +1,49 @@
 header {
+    font-size:14px;
     text-align:center;
     color: white;
     background-color:blue;
-    height:50px;
+    height:75px;
     width:800px;
 }
 nav {
+    font-size:14px;
     color: white;
     text-decoration:underline;
     background-color:green;
     display:flex;
     flex-direction:row;
+    height:50px;
     width:800px;
 }
 .article-container {
+    font-size:14px;
     text-align:center;
     color:white;
     background-color:pink;
     float:left;
-    width:528px;
+    height:50px;
+    width:528px;    
 }
 .section {
+    font-size:14px;
     text-align:center;
     color:white;
     background-color:brown;
-    height:100px;
+    height:75px;
     width:528px;
 }
 .aside {
+    font-size:14px;
     text-align:center;
     color:white;
     background-color:cyan;
     float:left;
     width:272px;
-    height:280px;
+    height:250px;
 }
 footer {
+    font-size:14px;
     text-align:center;
     color:white;
     background-color:green;
