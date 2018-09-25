@@ -11,3 +11,9 @@ nav {
     display:flex;
     flex-direction:row;
 }
+.article-container {
+    color:white;
+    background-color:pink;
+    float:left;
+    width:250px;
+}
